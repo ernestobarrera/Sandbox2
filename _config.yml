@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: Mi página Web 
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Una página personal con contenidos profesionales
 
 # GitHub Actions
 repository: "VincentTam/beautiful-jekyll"
@@ -24,8 +24,8 @@ author: Ernesto Barrera
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Sobre mí: "aboutme"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -55,7 +55,7 @@ social-network-links:
 #  patreon: DeanAttali
   youtube: ernestobarrera
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: ernestobarreralinares/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,11 +69,11 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-9576-6361
-  google-scholar: SBL8CNAAAAAJ&hl=es
+  google-scholar: https://scholar.google.es/citations?user=SBL8CNAAAAAJ&hl=es
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Este sitio web es una prueba virtual de que todo se puede aprender (incluso GitHub...sin ser informático)
 
 # --- General options --- #
 
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://ernestobarrera.github.io/Sandbox2/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
