@@ -25,10 +25,12 @@ author: Ernesto Barrera
 
 navbar-links:
   Sobre mí: "aboutme"
+  Blog: "https://ernestobarrera.github.io/Sandbox2/"
+  Para buscar: "https://ernestobarrera.github.io/buscar/"
   Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://ernestobarrera.github.io/"
 
 # --- Logo --- #
 
