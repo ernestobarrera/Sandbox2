@@ -12,6 +12,8 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/pkmc3EawDk8" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkmc3EawDk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Here is some bold text**
 
